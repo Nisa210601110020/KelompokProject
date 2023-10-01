@@ -70,6 +70,10 @@ body {
     font-weight: 500;
     color: #333;
 }
+::placeholder {
+    font-weight: 500;
+    color: #333;
+}
 .login-box form button {
     background: #000;
     color: #fff;
